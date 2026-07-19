@@ -3,6 +3,7 @@ type: dashboard
 week_to_view: 2026-07-13
 ---
 # Weekly Tracker
+
 ```sqlseal
 GRID
 WITH RECURSIVE

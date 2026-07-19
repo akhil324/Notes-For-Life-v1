@@ -14,7 +14,7 @@ GRID
 SELECT a(path, name) AS Title, status AS Status, rating AS Rating, topics AS Topics, substr(created_at, 1, 10) AS Added, CASE WHEN source IS NOT NULL AND trim(source) <> '' THEN a(source, 'Open') ELSE '' END AS Source FROM files WHERE path LIKE '02 Library/%' AND type = 'media' AND medium = 'Book' ORDER BY name
 ```
 
-## Movies
+## 🎬 Movies
 
 [➕ New film](<obsidian://unique?content=---%0Atype%3A%20media%0Amedium%3A%20Film%0Astatus%3A%20New%0Arating%3A%0Acover%3A%0Asource%3A%0Atopics%3A%20%5B%5D%0Aaliases%3A%20%5B%5D%0A---%0A%0A%23%23%20Why%20it%20is%20here%0A%0A%23%23%20Notes%20%2F%20review%0A%0A%23%23%20Links%0A>)
 

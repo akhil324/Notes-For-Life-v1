@@ -6,4 +6,4 @@
 5. Not looking for a barebone strap without screen, no need to have navigation in screen, calling 
 6. Need to explore
 	1. Call via bands
-	2. mic quality and speaker?
+		1. mic quality?

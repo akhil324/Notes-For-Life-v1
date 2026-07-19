@@ -6,5 +6,5 @@ type: index
 
 ## Random Title
 
-- [ IN PROGRESS ] - [[Hubs/Fitness Tracker]]
+- [ IN PROGRESS ] - [[Fitness Tracker]]
 - 

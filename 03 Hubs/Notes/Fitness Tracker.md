@@ -4,7 +4,7 @@
 3. should track hear rate, oxygen, pace, steps, distance, various activity types, gopd battery life upto weeks, should be water proof.
 4. Good to have - GPS
 5. Not looking for a barebone strap without screen, no need to have navigation in screen, youtube.
-6. Need to explore
+# Need to explore
 	1. Call via bands
 		1. mic quality?
 		2. uses speaker? or earphones?

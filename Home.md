@@ -6,7 +6,7 @@ type: home
 
 ## Today
 
-- [[00 Daily/2026-07-17|Open today's note]]
+- [Open today's note](obsidian://daily)
 - [[90 Dashboards/Active Tasks|Active Tasks]]
 - [[90 Dashboards/Habit Tracker|Habit Tracker]]
 

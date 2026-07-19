@@ -8,7 +8,7 @@ type: home
 
 - 📆 [Open today's note](obsidian://daily)
 - 📩 [[90 Dashboards/Active Tasks|Active Tasks]]
-- [[90 Dashboards/Habit Tracker|Habit Tracker]]
+- 🏖️ [[90 Dashboards/Habit Tracker|Habit Tracker]]
 
 📝✏️📔📓📗📚📑📃📄📋📆📅
 

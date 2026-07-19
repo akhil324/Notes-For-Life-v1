@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "promptDelete": false,
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "defaultViewMode": "preview"
 }

@@ -15,6 +15,7 @@ type: home
 - [[90 Dashboards/Media Library|Media Library]]
 - 📚 [[03 Hubs/Hubs|Hubs — research, skills, projects]]
 
+🎬📺🎥📽️📢🔈🎮📹🎦📚📖
 ## Weekly reset
 
 1. Clear or schedule active tasks.

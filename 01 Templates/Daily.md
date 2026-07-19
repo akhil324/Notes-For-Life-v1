@@ -12,7 +12,7 @@ skincare_pm: false
 no_doom_scroll: false
 ---
 
-## Thoughts
+## 🗯️ Thoughts
 
 ## Tasks
 

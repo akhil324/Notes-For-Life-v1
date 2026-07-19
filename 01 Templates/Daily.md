@@ -14,7 +14,7 @@ no_doom_scroll: false
 
 ## 🗯️ Thoughts
 
-## Tasks
+## 📋 Tasks
 
 - [ ] 
 

@@ -18,6 +18,6 @@ no_doom_scroll: false
 
 - [ ] 
 
-## Notes
+## ✏️ Notes
 
 - 

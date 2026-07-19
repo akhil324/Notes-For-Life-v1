@@ -2,9 +2,7 @@
 type: dashboard
 week_to_view: 2026-07-13
 ---
-
-> Pick any date in **week_to_view** using this note’s native **Properties**. The table shows the Monday–Sunday week containing that date. Tap a daily note to change its habit properties.
-
+# Weekly Tracker
 ```sqlseal
 GRID
 WITH RECURSIVE

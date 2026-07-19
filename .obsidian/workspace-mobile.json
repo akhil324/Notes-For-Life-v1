@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -171,9 +171,9 @@
   },
   "active": "a2c53e993620ebf9",
   "lastOpenFiles": [
-    "00 Daily/2026-07-19.md",
     "90 Dashboards/Media Library.md",
     "Home.md",
+    "00 Daily/2026-07-19.md",
     "01 Templates/Media.md",
     "01 Templates/Hub.md",
     "01 Templates/Daily.md",

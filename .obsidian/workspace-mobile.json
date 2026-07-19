@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Templates/Daily.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily"
+              "title": "Home"
             }
           }
         ]
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "01 Templates/Daily.md",
+            "file": "Home.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -171,8 +171,8 @@
   },
   "active": "a2c53e993620ebf9",
   "lastOpenFiles": [
-    "Home.md",
     "01 Templates/Daily.md",
+    "Home.md",
     "03 Hubs/Notes/Fitness Tracker.md",
     "90 Dashboards/Habit Tracker.md",
     "00 Daily/2026-07-19.md",

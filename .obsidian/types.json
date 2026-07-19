@@ -1,0 +1,15 @@
+{
+  "date": "date",
+  "workout": "checkbox",
+  "woke_early": "checkbox",
+  "slept_early": "checkbox",
+  "supplements": "checkbox",
+  "read_book": "checkbox",
+  "journaled": "checkbox",
+  "skincare_am": "checkbox",
+  "skincare_pm": "checkbox",
+  "no_doom_scroll": "checkbox",
+  "rating": "number",
+  "topics": "list",
+  "aliases": "aliases"
+}

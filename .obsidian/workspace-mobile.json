@@ -15,7 +15,7 @@
               "state": {
                 "file": "01 Templates/Media.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Media"

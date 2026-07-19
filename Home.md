@@ -10,11 +10,6 @@ type: home
 - 📋 [[90 Dashboards/Active Tasks|Active Tasks]] 
 - 🏖️ [[90 Dashboards/Habit Tracker|Habit Tracker]]
 
-📝✏️📔📓📗📚📑📃📄📋📆📅
-
-📩 hg
-
-🏖️🏝️🌈🔏💭🗯️
 ## Explore
 
 - [[90 Dashboards/Media Library|Media Library]]

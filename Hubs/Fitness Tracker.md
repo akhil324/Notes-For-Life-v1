@@ -5,4 +5,5 @@
 4. Good to have - GPS
 5. Not looking for a barebone strap without screen, no need to have navigation in screen, calling 
 6. Need to explore
-	1. Calling with these bands, 
+	1. Call via bands
+	2. mic quality and speaker?

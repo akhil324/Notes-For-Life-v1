@@ -5,7 +5,6 @@
 4. Good to have - GPS
 5. Not looking for a barebone strap without screen, no need to have navigation in screen, youtube.
 # Need to explore
-
 6. Call via bands
 	1. mic quality?
 	2. uses speaker? or earphones?

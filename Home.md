@@ -6,13 +6,13 @@ type: home
 
 ## Today
 
-- [Open today's note](obsidian://daily)
-- [[90 Dashboards/Active Tasks|Active Tasks]]
+- 📆 [Open today's note](obsidian://daily)
+- 📩 [[90 Dashboards/Active Tasks|Active Tasks]]
 - [[90 Dashboards/Habit Tracker|Habit Tracker]]
 
 📝✏️📔📓📗📚📑📃📄📋📆📅
 
-📩
+📩 hg
 
 🏖️🏝️🌈🔏💭🗯️
 ## Explore

@@ -1,10 +1,6 @@
 ---
 type: dashboard
 ---
-
-> Edit each item in its source note using native **Properties**. Each section shows only that media type.
-
-🎬📺🎥📽️📢🔈🎮📹🎦📚📖
 ## 📚 Books
 
 [➕ New book](<obsidian://unique?content=---%0Atype%3A%20media%0Amedium%3A%20Book%0Astatus%3A%20New%0Arating%3A%0Acover%3A%0Asource%3A%0Atopics%3A%20%5B%5D%0Aaliases%3A%20%5B%5D%0A---%0A%0A%23%23%20Why%20it%20is%20here%0A%0A%23%23%20Notes%20%2F%20review%0A%0A%23%23%20Links%0A>)

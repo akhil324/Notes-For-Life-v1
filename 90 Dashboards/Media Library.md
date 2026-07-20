@@ -3,15 +3,7 @@ type: dashboard
 ---
 ## 📚 Books
 
-```meta-bind-button
-label: "➕ New book"
-style: primary
-actions:
-  - type: js
-    file: "Scripts/newMedia.js"
-    args:
-      medium: Book
-```
+[➕ New book](<obsidian://unique?content=---%0Atype%3A%20media%0Amedium%3A%20Book%0Astatus%3A%20New%0Arating%3A%0Acover%3A%0Asource%3A%0Atopics%3A%20%5B%5D%0Aaliases%3A%20%5B%5D%0A---%0A%0A%23%23%20Why%20it%20is%20here%0A%0A%23%23%20Notes%20%2F%20review%0A%0A%23%23%20Links%0A>)
 
 ```sqlseal
 GRID
@@ -20,15 +12,7 @@ SELECT a(path, name) AS Title, status AS Status, rating AS Rating, topics AS Top
 
 ## 🎬 Movies
 
-```meta-bind-button
-label: "➕ New film"
-style: primary
-actions:
-  - type: js
-    file: "Scripts/newMedia.js"
-    args:
-      medium: Film
-```
+[➕ New film](<obsidian://unique?content=---%0Atype%3A%20media%0Amedium%3A%20Film%0Astatus%3A%20New%0Arating%3A%0Acover%3A%0Asource%3A%0Atopics%3A%20%5B%5D%0Aaliases%3A%20%5B%5D%0A---%0A%0A%23%23%20Why%20it%20is%20here%0A%0A%23%23%20Notes%20%2F%20review%0A%0A%23%23%20Links%0A>)
 
 ```sqlseal
 GRID
@@ -37,15 +21,7 @@ SELECT a(path, name) AS Title, status AS Status, rating AS Rating, topics AS Top
 
 ## 📺 TV Shows
 
-```meta-bind-button
-label: "➕ New series"
-style: primary
-actions:
-  - type: js
-    file: "Scripts/newMedia.js"
-    args:
-      medium: Series
-```
+[➕ New series](<obsidian://unique?content=---%0Atype%3A%20media%0Amedium%3A%20Series%0Astatus%3A%20New%0Arating%3A%0Acover%3A%0Asource%3A%0Atopics%3A%20%5B%5D%0Aaliases%3A%20%5B%5D%0A---%0A%0A%23%23%20Why%20it%20is%20here%0A%0A%23%23%20Notes%20%2F%20review%0A%0A%23%23%20Links%0A>)
 
 ```sqlseal
 GRID
@@ -54,15 +30,7 @@ SELECT a(path, name) AS Title, status AS Status, rating AS Rating, topics AS Top
 
 ## 🔈Audiobooks
 
-```meta-bind-button
-label: "➕ New audiobook"
-style: primary
-actions:
-  - type: js
-    file: "Scripts/newMedia.js"
-    args:
-      medium: Audiobook
-```
+[➕ New audiobook](<obsidian://unique?content=---%0Atype%3A%20media%0Amedium%3A%20Audiobook%0Astatus%3A%20New%0Arating%3A%0Acover%3A%0Asource%3A%0Atopics%3A%20%5B%5D%0Aaliases%3A%20%5B%5D%0A---%0A%0A%23%23%20Why%20it%20is%20here%0A%0A%23%23%20Notes%20%2F%20review%0A%0A%23%23%20Links%0A>)
 
 ```sqlseal
 GRID
@@ -71,15 +39,7 @@ SELECT a(path, name) AS Title, status AS Status, rating AS Rating, topics AS Top
 
 ## 🎮 Games
 
-```meta-bind-button
-label: "➕ New game"
-style: primary
-actions:
-  - type: js
-    file: "Scripts/newMedia.js"
-    args:
-      medium: Game
-```
+[➕ New game](<obsidian://unique?content=---%0Atype%3A%20media%0Amedium%3A%20Game%0Astatus%3A%20New%0Arating%3A%0Acover%3A%0Asource%3A%0Atopics%3A%20%5B%5D%0Aaliases%3A%20%5B%5D%0A---%0A%0A%23%23%20Why%20it%20is%20here%0A%0A%23%23%20Notes%20%2F%20review%0A%0A%23%23%20Links%0A>)
 
 ```sqlseal
 GRID
@@ -88,15 +48,7 @@ SELECT a(path, name) AS Title, status AS Status, rating AS Rating, topics AS Top
 
 ## 🎧 Albums
 
-```meta-bind-button
-label: "➕ New album"
-style: primary
-actions:
-  - type: js
-    file: "Scripts/newMedia.js"
-    args:
-      medium: Album
-```
+[➕ New album](<obsidian://unique?content=---%0Atype%3A%20media%0Amedium%3A%20Album%0Astatus%3A%20New%0Arating%3A%0Acover%3A%0Asource%3A%0Atopics%3A%20%5B%5D%0Aaliases%3A%20%5B%5D%0A---%0A%0A%23%23%20Why%20it%20is%20here%0A%0A%23%23%20Notes%20%2F%20review%0A%0A%23%23%20Links%0A>)
 
 ```sqlseal
 GRID
@@ -105,15 +57,7 @@ SELECT a(path, name) AS Title, status AS Status, rating AS Rating, topics AS Top
 
 ## 📹 Videos
 
-```meta-bind-button
-label: "➕ New video"
-style: primary
-actions:
-  - type: js
-    file: "Scripts/newMedia.js"
-    args:
-      medium: Video
-```
+[➕ New video](<obsidian://unique?content=---%0Atype%3A%20media%0Amedium%3A%20Video%0Astatus%3A%20New%0Arating%3A%0Acover%3A%0Asource%3A%0Atopics%3A%20%5B%5D%0Aaliases%3A%20%5B%5D%0A---%0A%0A%23%23%20Why%20it%20is%20here%0A%0A%23%23%20Notes%20%2F%20review%0A%0A%23%23%20Links%0A>)
 
 ```sqlseal
 GRID

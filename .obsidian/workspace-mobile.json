@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Hubs/Hubs.md",
-                "mode": "source",
+                "file": "90 Dashboards/Media Library.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hubs"
+              "title": "Media Library"
             }
           }
         ]
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "03 Hubs/Hubs.md",
+            "file": "90 Dashboards/Media Library.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -171,11 +171,11 @@
   },
   "active": "a2c53e993620ebf9",
   "lastOpenFiles": [
+    "03 Hubs/Hubs.md",
     "04 Technicals/Snippets/Template String.md",
     "01 Templates/Media.md.bak",
     "90 Dashboards/Media Library.md.bak",
     "04 Technicals/Snippets/template-string.py",
-    "03 Hubs/Hubs.md",
     "04 Technicals/Snippets",
     "04 Technicals",
     "90 Dashboards/Media Library.md",

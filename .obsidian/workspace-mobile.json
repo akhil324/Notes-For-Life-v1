@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "90 Dashboards/Media Library.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -172,8 +172,9 @@
   },
   "active": "a2c53e993620ebf9",
   "lastOpenFiles": [
-    "02 Library/New_Series.md",
+    "02 Library/New_Book.md",
     "90 Dashboards/Media Library.md",
+    "02 Library/New_Series.md",
     "02 Library/The Wire.md",
     "02 Library/20260721012259.md",
     "02 Library/Swat 3.md",
@@ -204,7 +205,6 @@
     "Obsidian/03 Hubs/Hubs.md",
     "Obsidian/01 Templates/Media.md",
     "Obsidian/01 Templates/Daily.md",
-    "Obsidian/Home.md",
     "Obsidian/90 Dashboards",
     "Obsidian/03 Hubs",
     "Obsidian/01 Templates"

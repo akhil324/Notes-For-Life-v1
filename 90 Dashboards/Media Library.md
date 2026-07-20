@@ -3,7 +3,7 @@ type: dashboard
 ---
 ## 📚 Books
 
-[➕ New book](obsidian://advanced-uri?filepath=02%20Library/New_Book&template=Media.md)
+[➕ New book](obsidian://advanced-uri?filepath=02%20Library/New_Book&template=01 Templates/Media.md)
 
 ```sqlseal
 GRID
@@ -12,7 +12,7 @@ SELECT a(path, name) AS Title, status AS Status, rating AS Rating, topics AS Top
 
 ## 🎬 Movies
 
-[➕ New film](obsidian://advanced-uri?filepath=02%20Library/New_Film&template=Media.md)
+[➕ New film](obsidian://advanced-uri?filepath=02%20Library/New_Film&template=01 Templates/Media.md)
 
 ```sqlseal
 GRID
@@ -21,7 +21,7 @@ SELECT a(path, name) AS Title, status AS Status, rating AS Rating, topics AS Top
 
 ## 📺 TV Shows
 
-[➕ New series](obsidian://advanced-uri?filepath=02%20Library/New_Series&template=Media.md)
+[➕ New series](obsidian://advanced-uri?filepath=02%20Library/New_Series&template=01 Templates/Media.md)
 
 ```sqlseal
 GRID
@@ -30,7 +30,7 @@ SELECT a(path, name) AS Title, status AS Status, rating AS Rating, topics AS Top
 
 ## 🔉 Audiobooks
 
-[➕ New audiobook](obsidian://advanced-uri?filepath=02%20Library/New_Audiobook&template=Media.md)
+[➕ New audiobook](obsidian://advanced-uri?filepath=02%20Library/New_Audiobook&template=01 Templates/Media.md)
 
 ```sqlseal
 GRID
@@ -39,7 +39,7 @@ SELECT a(path, name) AS Title, status AS Status, rating AS Rating, topics AS Top
 
 ## 🎮 Games
 
-[➕ New game](obsidian://advanced-uri?filepath=02%20Library/New_Game&template=Media.md)
+[➕ New game](obsidian://advanced-uri?filepath=02%20Library/New_Game&template=01 Templates/Media.md)
 
 ```sqlseal
 GRID
@@ -48,7 +48,7 @@ SELECT a(path, name) AS Title, status AS Status, rating AS Rating, topics AS Top
 
 ## 🎧 Albums
 
-[➕ New album](obsidian://advanced-uri?filepath=02%20Library/New_Album&template=Media.md)
+[➕ New album](obsidian://advanced-uri?filepath=02%20Library/New_Album&template=01 Templates/Media.md)
 
 ```sqlseal
 GRID
@@ -57,7 +57,7 @@ SELECT a(path, name) AS Title, status AS Status, rating AS Rating, topics AS Top
 
 ## 📹 Videos
 
-[➕ New video](obsidian://advanced-uri?filepath=02%20Library/New_Video&template=Media.md)
+[➕ New video](obsidian://advanced-uri?filepath=02%20Library/New_Video&template=01 Templates/Media.md)
 
 ```sqlseal
 GRID

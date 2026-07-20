@@ -1,21 +1,21 @@
-<%* 
+<%*
 // 1. Read the temporary filename to determine the medium
 let tempName = tp.file.title.toLowerCase();
-let med = "Book"; // Default fallback
-if (tempName.includes("film")) med = "Film";
-if (tempName.includes("series")) med = "Series";
-if (tempName.includes("audiobook")) med = "Audiobook";
-if (tempName.includes("game")) med = "Game";
-if (tempName.includes("album")) med = "Album";
-if (tempName.includes("video")) med = "Video";
+let m = "Book"; // Default fallback
+if (tempName.includes("film")) m = "Film";
+else if (tempName.includes("series")) m = "Series";
+else if (tempName.includes("audiobook")) m = "Audiobook";
+else if (tempName.includes("game")) m = "Game";
+else if (tempName.includes("album")) m = "Album";
+else if (tempName.includes("video")) m = "Video";
 
-// 2. Immediately rename the file to something unique (e.g., Book-202607211345)
-// This frees up the temporary name so your dashboard links never break!
-await tp.file.rename("New " + med + " - " + tp.date.now("YYYYMMDDHHmmss"));
--%>
----
+// 2. Rename the file to free up the button for the next click
+await tp.file.rename("New " + m + " - " + tp.date.now("YYYYMMDDHHmmss"));
+
+// 3. Inject the YAML properties directly so we don't lose the variable
+tR += `---
 type: media
-medium: <% med %>
+medium: ${m}
 status: New
 rating:
 cover:
@@ -23,7 +23,8 @@ source:
 topics: []
 aliases: []
 tags:
----
+---`;
+%>
 
 > **Cover** accepts a direct image URL or a local image path/link such as `[[Attachments/poster.jpg]]`. Put an IMDb, Goodreads, Audible, Wikipedia, or other webpage URL in **Source**.
 

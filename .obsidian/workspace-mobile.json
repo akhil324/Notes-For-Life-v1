@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Daily/2026-07-20.md",
-                "mode": "source",
+                "file": "03 Hubs/Notes/Fitness Tracker.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-20"
+              "title": "Fitness Tracker"
             }
           }
         ]
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "00 Daily/2026-07-20.md",
+            "file": "03 Hubs/Notes/Fitness Tracker.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -172,6 +172,7 @@
   "active": "a2c53e993620ebf9",
   "lastOpenFiles": [
     "00 Daily/2026-07-21.md",
+    "00 Daily/2026-07-20.md",
     "03 Hubs/Notes/Fitness Tracker.md",
     "01 Templates/Media.md",
     "01 Templates/Daily.md",
@@ -182,7 +183,6 @@
     "Home.md",
     "03 Hubs/Hubs.md",
     "00 Daily/2026-07-19.md",
-    "00 Daily/2026-07-20.md",
     "00 Daily/2026-07-17.md",
     "01 Templates/Hub.md",
     "03 Hubs/Notes",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Library/Dawson's Creek.md",
-                "mode": "source",
+                "file": "90 Dashboards/Media Library.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dawson's Creek"
+              "title": "Media Library"
             }
           }
         ]
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 Library/Dawson's Creek.md",
+            "file": "90 Dashboards/Media Library.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -171,8 +171,8 @@
   },
   "active": "a2c53e993620ebf9",
   "lastOpenFiles": [
-    "90 Dashboards/Media Library.md",
     "02 Library/Dawson's Creek.md",
+    "90 Dashboards/Media Library.md",
     "90 Dashboards/Habit Tracker.md",
     "00 Daily/2026-07-21.md",
     "90 Dashboards/Active Tasks.md",

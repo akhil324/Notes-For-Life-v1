@@ -1,6 +1,6 @@
 ---
 type: dashboard
-week_to_view: 2026-07-13
+week_to_view: 2026-07-21
 ---
 # Weekly Tracker
 

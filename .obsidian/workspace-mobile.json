@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "04 Technicals/Snippets/Template String.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "03 Hubs/Notes/Fitness Tracker.md",
+            "file": "04 Technicals/Snippets/Template String.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },

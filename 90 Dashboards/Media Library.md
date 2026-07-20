@@ -3,7 +3,15 @@ type: dashboard
 ---
 ## 📚 Books
 
-[➕ New book](obsidian://advanced-uri?filepath=02%20Library/New_Book&template=01%20Templates/Media.md)
+```meta-bind-button
+label: "➕ New book"
+style: primary
+actions:
+  - type: js
+    file: "Scripts/newMedia.js"
+    args:
+      medium: Book
+```
 
 ```sqlseal
 GRID
@@ -12,7 +20,15 @@ SELECT a(path, name) AS Title, status AS Status, rating AS Rating, topics AS Top
 
 ## 🎬 Movies
 
-[➕ New film](obsidian://advanced-uri?filepath=02%20Library/New_Film&template=01%20Templates/Media.md)
+```meta-bind-button
+label: "➕ New film"
+style: primary
+actions:
+  - type: js
+    file: "Scripts/newMedia.js"
+    args:
+      medium: Film
+```
 
 ```sqlseal
 GRID
@@ -21,16 +37,32 @@ SELECT a(path, name) AS Title, status AS Status, rating AS Rating, topics AS Top
 
 ## 📺 TV Shows
 
-[➕ New series](obsidian://advanced-uri?filepath=02%20Library/New_Series&template=01%20Templates/Media.md)
+```meta-bind-button
+label: "➕ New series"
+style: primary
+actions:
+  - type: js
+    file: "Scripts/newMedia.js"
+    args:
+      medium: Series
+```
 
 ```sqlseal
 GRID
 SELECT a(path, name) AS Title, status AS Status, rating AS Rating, topics AS Topics, substr(created_at, 1, 10) AS Added, CASE WHEN source IS NOT NULL AND trim(source) <> '' THEN a(source, 'Open') ELSE '' END AS Source FROM files WHERE path LIKE '02 Library/%' AND type = 'media' AND medium = 'Series' ORDER BY name
 ```
 
-## 🔉 Audiobooks
+## 🔈Audiobooks
 
-[➕ New audiobook](obsidian://advanced-uri?filepath=02%20Library/New_Audiobook&template=01%20Templates/Media.md)
+```meta-bind-button
+label: "➕ New audiobook"
+style: primary
+actions:
+  - type: js
+    file: "Scripts/newMedia.js"
+    args:
+      medium: Audiobook
+```
 
 ```sqlseal
 GRID
@@ -39,7 +71,15 @@ SELECT a(path, name) AS Title, status AS Status, rating AS Rating, topics AS Top
 
 ## 🎮 Games
 
-[➕ New game](obsidian://advanced-uri?filepath=02%20Library/New_Game&template=01%20Templates/Media.md)
+```meta-bind-button
+label: "➕ New game"
+style: primary
+actions:
+  - type: js
+    file: "Scripts/newMedia.js"
+    args:
+      medium: Game
+```
 
 ```sqlseal
 GRID
@@ -48,7 +88,15 @@ SELECT a(path, name) AS Title, status AS Status, rating AS Rating, topics AS Top
 
 ## 🎧 Albums
 
-[➕ New album](obsidian://advanced-uri?filepath=02%20Library/New_Album&template=01%20Templates/Media.md)
+```meta-bind-button
+label: "➕ New album"
+style: primary
+actions:
+  - type: js
+    file: "Scripts/newMedia.js"
+    args:
+      medium: Album
+```
 
 ```sqlseal
 GRID
@@ -57,7 +105,15 @@ SELECT a(path, name) AS Title, status AS Status, rating AS Rating, topics AS Top
 
 ## 📹 Videos
 
-[➕ New video](obsidian://advanced-uri?filepath=02%20Library/New_Video&template=01%20Templates/Media.md)
+```meta-bind-button
+label: "➕ New video"
+style: primary
+actions:
+  - type: js
+    file: "Scripts/newMedia.js"
+    args:
+      medium: Video
+```
 
 ```sqlseal
 GRID

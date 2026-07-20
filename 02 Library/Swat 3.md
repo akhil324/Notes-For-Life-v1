@@ -5,7 +5,7 @@ status: New
 rating:
 cover:
 source:
-topics: []
+topics:
 aliases: []
 ---
 

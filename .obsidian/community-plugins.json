@@ -1,5 +1,7 @@
 [
   "sqlseal",
   "templater-obsidian",
-  "obsidian-advanced-uri"
+  "obsidian-advanced-uri",
+  "obsidian-meta-bind-plugin",
+  "js-engine"
 ]

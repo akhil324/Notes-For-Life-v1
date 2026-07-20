@@ -1,8 +1,17 @@
 ```python
+import sys
 import urllib.parse
 
-# Open and read your template file
-with open("template.md", "r", encoding="utf-8") as file:
+# Check if a file path was provided
+if len(sys.argv) < 2:
+    print("Usage: python script.py <path_to_file.md>")
+    sys.exit(1)
+
+# Get the file path from the command line parameter
+file_path = sys.argv[1]
+
+# Read the file
+with open(file_path, "r", encoding="utf-8") as file:
     content = file.read()
 
 # URL-encode the text

@@ -1,4 +1,5 @@
 [
   "sqlseal",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-advanced-uri"
 ]

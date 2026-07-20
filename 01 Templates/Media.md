@@ -7,6 +7,7 @@ cover:
 source:
 topics: []
 aliases: []
+tags:
 ---
 
 > **Cover** accepts a direct image URL or a local image path/link such as `[[Attachments/poster.jpg]]`. Put an IMDb, Goodreads, Audible, Wikipedia, or other webpage URL in **Source**.

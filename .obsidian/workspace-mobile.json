@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90 Dashboards/Media Library.md",
-                "mode": "preview",
+                "file": "00 Daily/2026-07-21.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Media Library"
+              "title": "2026-07-21"
             }
           }
         ]
@@ -172,10 +172,10 @@
   },
   "active": "a2c53e993620ebf9",
   "lastOpenFiles": [
+    "90 Dashboards/Media Library.md",
     "00 Daily/2026-07-21.md",
     "03 Hubs/Hubs.md",
     "03 Hubs/Notes/Goal Setting.md",
-    "90 Dashboards/Media Library.md",
     "90 Dashboards/Habit Tracker.md",
     "02 Library/Swat 3.md",
     "02 Library/New_Series.md",

@@ -16,7 +16,7 @@ no_doom_scroll: false
 
 ## 📋 Tasks
 
-- [ ] 
+- [ ]
 
 ## 📩 Notes
 

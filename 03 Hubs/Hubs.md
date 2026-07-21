@@ -7,5 +7,5 @@ type: index
 ## Random Title
 
 - [ In Progress ] - [[Fitness Tracker]]
-- [ In Progress ] - [[Template String]]
+- [ In Progress ] - [[Goal setting
 - 

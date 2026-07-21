@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Daily/2026-07-21.md",
+                "file": "90 Dashboards/Active Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-21"
+              "title": "Active Tasks"
             }
           }
         ]
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "90 Dashboards/Media Library.md",
+            "file": "90 Dashboards/Active Tasks.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -172,6 +172,8 @@
   },
   "active": "a2c53e993620ebf9",
   "lastOpenFiles": [
+    "00 Daily/2026-07-22.md",
+    "90 Dashboards/Active Tasks.md",
     "90 Dashboards/Media Library.md",
     "00 Daily/2026-07-21.md",
     "03 Hubs/Hubs.md",
@@ -195,7 +197,6 @@
     "03 Hubs/Notes/Fitness Tracker.md",
     "00 Daily/2026-07-20.md",
     "01 Templates/Daily.md",
-    "90 Dashboards/Active Tasks.md",
     "Home.md",
     "00 Daily/2026-07-19.md",
     "00 Daily/2026-07-17.md",
@@ -206,7 +207,6 @@
     "Obsidian/90 Dashboards/Habit Tracker.md",
     "Obsidian/90 Dashboards/Active Tasks.md",
     "Obsidian/03 Hubs/Hubs.md",
-    "Obsidian/01 Templates/Media.md",
     "Obsidian/90 Dashboards"
   ]
 }

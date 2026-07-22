@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#ai_cat",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -100,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "79175157767d4e4e",

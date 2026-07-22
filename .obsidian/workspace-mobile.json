@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#ai_cat",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -100,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "79175157767d4e4e",
@@ -170,7 +170,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a2c53e993620ebf9",
+  "active": "93ca5c86cff2ad78",
   "lastOpenFiles": [
     "01 Templates/Daily.md",
     "90 Dashboards/Active Tasks.md",
